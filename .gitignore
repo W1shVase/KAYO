@@ -1,0 +1,8 @@
+.venv
+.gitattributes
+.vscode
+.zshrc
+.env
+.DS_Store
+NV-Embed-v1
+SFR-Embedding-2_R
